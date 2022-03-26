@@ -1,0 +1,8 @@
+trying opencv library for hand detection on webcam
+
+30fps seems a little low, it fails to detect fast hand movements as punches
+
+current detection is made using cvzone -> looked around for documentation -> found source code at 
+https://github.com/cvzone/cvzone/tree/master/cvzone
+-> based on mediapipe module 
+
